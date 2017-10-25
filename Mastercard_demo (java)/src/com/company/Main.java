@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	int [] values = {1,1,1,1,1,2,3,4,4,4,4,5};
+	int [] values = {1,1,1,2,2,3};
 
 	int mostCommon = MostCommonElement(values);
 	System.out.print(mostCommon);
